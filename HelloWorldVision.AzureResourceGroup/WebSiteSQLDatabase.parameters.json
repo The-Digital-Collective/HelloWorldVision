@@ -8,7 +8,16 @@
     "administratorLogin": {
       "value": null
     },
+    "administratorLoginPassword": {
+      "value": null
+    },
     "databaseName": {
+      "value": null
+    },
+    "webSiteName": {
+      "value": null
+    },
+    "sqlserverName": {
       "value": null
     }
   }
